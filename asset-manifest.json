@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modern_portfolio/static/css/main.fdc2b1ee.css",
+    "main.js": "/modern_portfolio/static/js/main.05028c7d.js",
+    "index.html": "/modern_portfolio/index.html",
+    "main.fdc2b1ee.css.map": "/modern_portfolio/static/css/main.fdc2b1ee.css.map",
+    "main.05028c7d.js.map": "/modern_portfolio/static/js/main.05028c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc2b1ee.css",
+    "static/js/main.05028c7d.js"
+  ]
+}
