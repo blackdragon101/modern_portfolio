@@ -3,16 +3,16 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
   {
-    title: "Project One",
+    title: "Youcode: Python IDE",
     description: "A modern desktop Python IDE constructed with GUI and File Dialog options.",
-    image: "https://placehold.co/600x400?text=Project+1",
+    image: "https://github.com/blackdragon101/modern_portfolio/Youcode app.png",
     github: "https://github.com/blackdragon101/YouCode",
     demo: "https://project1.demo.com"
   },
   {
-    title: "Project Two",
+    title: "Student Registration System",
     description: "A minimalist UI project built with Window Forms and C# connected with MySql Database.",
-    image: "https://placehold.co/600x400?text=Project+2",
+    image: "https://github.com/blackdragon101/modern_portfolio/Std_system.png",
     github: "https://github.com/blackdragon101/Student-Course-Registration-system",
     demo: "https://project2.demo.com"
   }
